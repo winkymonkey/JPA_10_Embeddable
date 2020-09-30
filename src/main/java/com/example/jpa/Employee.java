@@ -1,4 +1,4 @@
-package com.example;
+package com.example.jpa;
 
 import java.math.BigDecimal;
 import java.util.HashSet;

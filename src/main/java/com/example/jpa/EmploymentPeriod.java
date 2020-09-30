@@ -1,4 +1,4 @@
-package com.example;
+package com.example.jpa;
 
 import javax.persistence.Column;
 import javax.persistence.Embeddable;
