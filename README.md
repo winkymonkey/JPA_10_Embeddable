@@ -1,0 +1,1 @@
+# JPA_04_Embeddable
